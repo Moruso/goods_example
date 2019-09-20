@@ -1,1 +1,1 @@
-gunicorn -c gunicorn.conf goods.wsgi:application
+gunicorn -c gunicorn.conf goods_example.wsgi:application
